@@ -20,7 +20,7 @@ about:
       href: mailto:kamranakhtar01474@gmail.com
     - icon: code
       text: Leetcode
-      href: https://leetcode.com/codology
+      href: https://leetcode.com
         
 ---
 <div style="text-align: justify; font-size: 22px;">
