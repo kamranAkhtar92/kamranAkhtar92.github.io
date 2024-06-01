@@ -1,6 +1,6 @@
 ---
-title: kamran Akhtar
-image: files/Ashish_pic.jpg
+title: Kamran Akhtar
+image: files/k_pic.jpg
 about:
   template: jolla
   image-width: 15em
