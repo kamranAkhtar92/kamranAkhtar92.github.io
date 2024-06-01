@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ashish Sah"
+  title: "Kamran Akhtar"
   navbar:
     right:
       - href: index.qmd
